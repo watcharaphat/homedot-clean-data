@@ -18,6 +18,8 @@
     "babel-preset-env": "^1.6.0"
   },
   "dependencies": {
-    "papaparse": "@4.3.7"
+    "median-quickselect": "^1.0.1",
+    "papaparse": "^4.5.0",
+    "percentile-calculator": "^1.0.0"
   }
 }
